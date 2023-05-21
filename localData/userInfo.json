@@ -1,0 +1,40 @@
+{
+  "usersInfo": [
+    {
+      "id": 1,
+      "name": "Rakesh Kumar Parida",
+      "email": "rakesh@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Bikash Kumar Parida",
+      "email": "bikash@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Rajesh Kumar Parida",
+      "email": "rajesh@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Millan Kumar Parida",
+      "email": "millan@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Ansh Kumar Parida",
+      "email": "ansh@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Piyush Samantaray",
+      "email": "piyush@gmail.com"
+    },
+
+    {
+      "id": 7,
+      "name": "Golu Samantaray",
+      "email": "golu@gmail.com"
+    }
+  ]
+}
